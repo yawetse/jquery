@@ -1,8 +1,9 @@
 {
-  "name": "jquery",
+  "name": "standard-jquery",
   "title": "jQuery",
   "description": "JavaScript library for DOM operations",
   "version": "2.1.0-pre",
+  "main": "dist/jquery.js",
   "homepage": "http://jquery.com",
   "author": {
     "name": "jQuery Foundation and other contributors",
